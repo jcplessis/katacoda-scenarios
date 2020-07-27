@@ -1,0 +1,22 @@
+{
+  "name": "katacoda",
+  "version": "1.0.0",
+  "description": "[![](http://shields.katacoda.com/katacoda/jcplessis/count.svg)](https://www.katacoda.com/jcplessis \"Get your profile on Katacoda.com\")",
+  "main": "index.js",
+  "scripts": {
+    "new-scenario": "katacoda scenarios:create"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcplessis/katacoda-scenarios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcplessis/katacoda-scenarios/issues"
+  },
+  "homepage": "https://github.com/jcplessis/katacoda-scenarios#readme",
+  "dependencies": {
+    "katacoda-cli": "0.0.20"
+  }
+}
