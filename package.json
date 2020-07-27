@@ -4,7 +4,9 @@
   "description": "[![](http://shields.katacoda.com/katacoda/jcplessis/count.svg)](https://www.katacoda.com/jcplessis \"Get your profile on Katacoda.com\")",
   "main": "index.js",
   "scripts": {
-    "new-scenario": "katacoda scenarios:create"
+	"new-scenario": "katacoda scenarios:create",
+	"new-course": "katacoda courses:create",
+	"add-scenario": "katacoda courses:add:scenarios"
   },
   "repository": {
     "type": "git",

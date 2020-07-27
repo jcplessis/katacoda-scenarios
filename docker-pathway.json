@@ -1,0 +1,16 @@
+{
+  "title": "Docker",
+  "description": "Docker",
+  "courses": [
+    {
+      "course_id": "docker-basic",
+      "title": "Docker Basic",
+      "description": ""
+    },
+    {
+      "course_id": "docker-swarm",
+      "title": "Docker Swarm",
+      "description": ""
+    }
+  ]
+}
