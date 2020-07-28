@@ -14,10 +14,6 @@ On peut aussi demander à docker quels sont les process lancés par un container
 
 On pourrait chercher quel est le processus parent de ce processus et on verrait probablement qu'il s'agit de _docker-containerd_.
 
-On peut aussi regarder en détail toute l'arborescense des processus enfants de _dockerd_ pour voir les containers :
-
-`pstree -c -p -A $(pgrep dockerd)`{{execute}}
-
 # Répertoires
 
 On peut aller dans le répertoire /proc, et rechercher les fichiers de configuration de notre processus _redis_.
