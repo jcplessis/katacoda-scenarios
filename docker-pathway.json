@@ -1,17 +1,7 @@
 {
   "title": "Docker",
-  "description": "Docker",
+  "description": "Introduction à Docker",
   "courses": [
-    {
-      "course_id": "docker-basic",
-      "title": "Docker Basic",
-      "description": ""
-    },
-    {
-      "course_id": "docker-swarm",
-      "title": "Docker Swarm",
-      "description": ""
-    },
     {
       "course_id": "what-is-a-container",
       "title": "Qu'est-ce qu'un container ?",
