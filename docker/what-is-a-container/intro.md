@@ -1,0 +1,1 @@
+Dans ce scenario nous allons voir ce qu'est concrètement un container, comment il est vu par le système hôte. 

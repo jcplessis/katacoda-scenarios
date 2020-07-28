@@ -11,6 +11,11 @@
       "course_id": "docker-swarm",
       "title": "Docker Swarm",
       "description": ""
+    },
+    {
+      "course_id": "what-is-a-container",
+      "title": "Qu'est-ce qu'un container ?",
+      "description": "Une introduction à ce qu'est un container, comment il se matérialise du point de vue du host."
     }
   ]
 }
