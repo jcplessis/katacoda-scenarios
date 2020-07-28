@@ -1,0 +1,26 @@
+{
+  "title": "Qu'est ce qu'une image ?",
+  "description": "Concrètement qu'est ce qui se cache dans une image ?",
+  "difficulty": "Beginner",
+  "time": "15 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Contenu d'une image",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}

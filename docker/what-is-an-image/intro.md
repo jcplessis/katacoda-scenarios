@@ -1,0 +1,1 @@
+Qu'est ce qu'une image docker ? Concrètement à quoi ça ressemble ?

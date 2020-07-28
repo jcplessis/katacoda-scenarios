@@ -6,6 +6,11 @@
       "course_id": "what-is-a-container",
       "title": "Qu'est-ce qu'un container ?",
       "description": "Une introduction à ce qu'est un container, comment il se matérialise du point de vue du host."
+    },
+    {
+      "course_id": "what-is-an-image",
+      "title": "Qu'est ce qu'une image ?",
+      "description": "Concrètement qu'est ce qui se cache dans une image ?"
     }
   ]
 }
